@@ -1,0 +1,10 @@
+iz gornjeg programa dobivamo ove kodove iz bilokojeg daljinskog upravljača
+koje koristimo za kontrolu svjetla
+
+16712445  -- on/off
+16718565  -- R
+16751205  -- G
+16753245  -- B
+
+
+
